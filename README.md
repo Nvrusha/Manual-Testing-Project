@@ -49,13 +49,13 @@ I conducted database testing to ensure data accuracy and integrity in MySQL. Thi
 
 ## Tools
 ### Postman:
-    Used for API testing, focusing on user registration and login processes.
+Used for API testing, focusing on user registration and login processes.
 
 ### JIRA:
-    Used for tracking bugs, maintaining detailed records of defect reports, and managing the testing process.
+Used for tracking bugs, maintaining detailed records of defect reports, and managing the testing process.
 
 ### MySQL:
-    Used for database testing to verify the accuracy of data storage and retrieval, ensuring data integrity across user, product, and order tables.
+Used for database testing to verify the accuracy of data storage and retrieval, ensuring data integrity across user, product, and order tables.
 
 ## Bug Reporting & Test Documentation:
 * All test cases and defect logs were created and maintained in JIRA, providing comprehensive documentation for the testing process.
