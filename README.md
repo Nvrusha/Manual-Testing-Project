@@ -1,7 +1,7 @@
 # OpenCart E-commerce Project Project
 This repository demonstrates my manual testing expertise through the OpenCart e-commerce platform, an open-source online store management system. The project is focused on ensuring the robustness and quality of key e-commerce functionalities, including product management, order processing, customer workflows, and seamless API/database interactions. It aims to simulate real-world scenarios, ensuring that users can navigate and complete purchases smoothly without encountering bugs or issues.
 
-## Project  Overview:
+# Project  Overview:
 
 ## Objective
 The primary objective of this project is to conduct thorough manual testing of OpenCart’s key modules to identify any functional issues, ensure stable performance, and guarantee that customer transactions are error-free. This includes evaluating both front-end and back-end processes, ranging from user registration to order fulfillment, as well as testing the integration of APIs and database transactions.
@@ -12,13 +12,9 @@ By focusing on multiple types of testing—functional, regression, API, and data
 ### This project comprehensively tests all core features of the OpenCart platform, including but not limited to:
 
 1. User registration and login processes.
-
 2. Product search and filter functionality, ensuring users can easily find items.
-
 3. Cart functionality including adding, updating, and removing products from the cart.
-
 4. Checkout process covering payment methods, shipping options, and order confirmation.
-
 5. Order history and user profile management features.
 
 ### Additional focus was placed on:
@@ -53,26 +49,26 @@ I conducted database testing to ensure data accuracy and integrity in MySQL. Thi
 
 ## Tools
 ### Postman:
-Used for API testing, focusing on user registration and login processes.
+    Used for API testing, focusing on user registration and login processes.
 
 ### JIRA:
-Used for tracking bugs, maintaining detailed records of defect reports, and managing the testing process.
+    Used for tracking bugs, maintaining detailed records of defect reports, and managing the testing process.
 
 ### MySQL:
-Used for database testing to verify the accuracy of data storage and retrieval, ensuring data integrity across user, product, and order tables.
+    Used for database testing to verify the accuracy of data storage and retrieval, ensuring data integrity across user, product, and order tables.
 
 ## Bug Reporting & Test Documentation:
 * All test cases and defect logs were created and maintained in JIRA, providing comprehensive documentation for the testing process.
 * Detailed defect reports included information on how to reproduce the issue, the affected module, and severity level (critical, major, minor).
 * Suggestions for performance improvements and user experience enhancements were also provided where applicable.
  
-# Key Outcomes:
+## Key Outcomes:
 * Critical Bugs Identified: Multiple critical bugs were identified, including issues with login functionality, incorrect user session management, and registration errors.
 * Performance Enhancements: Recommendations were made to improve platform performance and optimize user interactions to reduce cart abandonment.
 * Improved Stability: The testing process helped ensure the overall stability of the platform, resulting in smoother user experience, fewer defects, and enhanced integration with external systems.
 * Increased Confidence in Release Quality: By identifying defects early and conducting thorough regression testing, I contributed to a more reliable and high-quality product release.
 
-# How to Run the Tests:
+## How to Run the Tests:
 * Set Up OpenCart: Download and install OpenCart on a local or test environment, ensuring all necessary dependencies are in place.
 * Access Test Cases: Review the detailed test cases provided in the repository to understand the scope and steps for manual testing.
 * Execute Manual Tests: Perform the manual tests as per the test cases, simulating real-world user scenarios such as product searches, order placements, and user profile management.
